@@ -1,0 +1,11 @@
+Player 1: Rock, Player 2: Rock = Output: Draw
+Player 1: Paper, Player 2: Paper = Output: Draw
+Player 1: Scissors, Player 2: Scissors = Output: Draw
+
+Player 1: Rock, Player 2: Paper = Output: Player 2
+Player 1: Paper, Player 2: Scissors = Output: Player 2
+Player 1: Scissors, Player 2: Rock = Output: Player 2
+
+Player 1: Paper, Player 2: Rock = Output: Player 1
+Player 1: Scissors, Player 2: Paper = Output: Player 1
+Player 1: Rock, Player 2: Scissors = Output: Player 1
