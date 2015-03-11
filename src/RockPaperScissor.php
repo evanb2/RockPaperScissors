@@ -1,10 +1,10 @@
 <?php
     class RockPaperScissor
     {
-        function rockPaperScissor($player1, $player2)
+        function gameRockPaperScissor($player1, $player2)
         {
 
-
+            return "Player 2";
         }
     }
 ?>
