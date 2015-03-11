@@ -4,7 +4,7 @@
 
     $app = new Silex\Application();
 
-    $app->reqister(new Seilx\Provider\TwigServiceProvider(), array(
+    $app->register(new Silex\Provider\TwigServiceProvider(), array(
         'twig.path' => __DIR__.'/../views'
     ));
 
